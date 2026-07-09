@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "latest": 1,
+  "packs": [
+    {
+      "n": 1,
+      "file": "pack_001.bin",
+      "sha256": "deaf1e141656024390217b09112887d1e8743bacaa5d276225d8273ecfb0fe0f",
+      "count": 169,
+      "min_app": 1
+    }
+  ]
+}
