@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "latest": 6,
+  "latest": 7,
   "packs": [
     {
       "n": 1,
@@ -41,6 +41,13 @@
       "n": 6,
       "file": "pack_006.bin",
       "sha256": "db03a1711f671929297e91171a580221f7c6063e3efdca7c03bb988f0850dcb7",
+      "count": 20,
+      "min_app": 1
+    },
+    {
+      "n": 7,
+      "file": "pack_007.bin",
+      "sha256": "f6dede78acbda573e3d47d23dffa0595fa7a9675e7752e75934da7191731293e",
       "count": 20,
       "min_app": 1
     }
